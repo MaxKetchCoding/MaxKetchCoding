@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaxKetchCoding
 - 👀 I’m interested in Coding, Gaming, and Traveling.
-- 🌱 I’m currently learning Java, MySQL, and Web Development!
+- 🌱 I’m currently learning Web Development!
 - 📫 How to reach me at maxketchdoing@gmail.com
 
 <!---
